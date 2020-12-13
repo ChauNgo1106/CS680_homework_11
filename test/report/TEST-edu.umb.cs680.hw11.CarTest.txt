@@ -1,0 +1,6 @@
+Testcase: edu.umb.cs680.hw11.CarTest
+Test: verify_the_order_of_car_by_mileage() took 15 milli sec(s)
+Test: verify_the_order_of_car_by_price() took 1 milli sec(s)
+Test: verify_the_order_of_car_by_using_Pareto_Comparison() took 1 milli sec(s)
+Test: verify_the_order_of_car_by_year() took 1 milli sec(s)
+Tests run: 4, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 41 milli sec(s)
